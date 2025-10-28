@@ -1,51 +1,49 @@
-🏓 Pong Game – Cursor Paddle Edition
+# 🏓 Pong Game
 
-🎮 Pong Game is a simple yet addictive browser game inspired by the classic Pong, where you control the paddle using your mouse cursor and compete against a computer-controlled opponent.
-Built entirely with HTML, CSS, and JavaScript, this mini-game recreates the retro arcade experience with smooth animation, dynamic ball physics, and responsive gameplay.
+An interactive and minimal browser-based Pong remake built with HTML, CSS, and JavaScript.
+Control your paddle using your mouse cursor and face off against the computer in a fast-paced retro-style match!
 
+---
 
-🧩 Features
+## 🎮 How It Works
 
-🖱️ Cursor-based control: Move your mouse up and down to control your paddle in real-time.
+Move your mouse up and down to control your paddle.
 
-🤖 Smart AI opponent: Play against a computer paddle that tracks the ball dynamically.
+The computer opponent automatically tracks and returns the ball.
 
-⚡ Smooth ball physics: Realistic collisions, speed variations, and angles.
+Try to bounce the ball past the opponent to score points.
 
-🎨 Minimalist design: Clean visuals with a retro-inspired look.
+The ball’s speed and direction change dynamically after every hit.
 
-📱 Responsive design: Works perfectly on desktop and laptop screens.
+Refresh the page anytime to start a new match.
 
-🔁 Instant restart: Refresh the page to start a new match anytime.
+It’s a quick, fun, and nostalgic challenge — simple to learn, hard to master 🕹️
+---
 
-🛠️ Built With
+## ⚙️ Features
 
-HTML5 Canvas – for rendering paddles and ball animations.
+🖱️ Cursor-based paddle control
 
-CSS3 – for layout and design.
+🤖 Smart computer opponent
 
-Vanilla JavaScript – for logic, physics, and interactivity.
+⚡ Smooth ball physics and dynamic bounces
 
-🕹️ How to Play
+🎨 Clean minimalist design
 
-Move your mouse cursor up and down to control your paddle.
+📱 Responsive and lightweight
 
-Try to bounce the ball past the computer’s paddle.
+🔁 Quick restart with a page refresh
 
-Each time you score, the ball resets and increases speed.
+---
 
-Refresh the page to restart the match and try to beat your high score!
+## 🧩 Tech Stack
 
-🧠 Future Improvements
+- **HTML5 Canvas**  
+- **CSS3**  
+- **JavaScript (ES6)**  
 
-🎧 Add sound effects and scoring animations.
+---
 
-🧍‍♂️ Enable two-player local mode (keyboard + mouse).
+## 🚀 Live Demo
 
-🏆 Implement a scoreboard or difficulty levels.
-
-🌈 Add color themes and background variations.
-
-🚀 Live Demo
-
-👉 https://jpglez.github.io/Pong/
+🔗 https://jpglez.github.io/Pong/
